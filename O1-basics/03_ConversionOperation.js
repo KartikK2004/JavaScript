@@ -30,7 +30,68 @@ let BolleanIsLogout = Boolean(UserLogout)
 
 let somenumber = 33
 let stringnumber = String(somenumber)
-console.log(stringnumber);
+//console.log(stringnumber);
+
+//*****************Operation************************ //
+
+let value = 3
+let negvalue = -value
+//console.log(negvalue);
+// console.log(2 + 2);
+// console.log(2 - 2);
+// console.log(3 * 3);
+// console.log(2 / 3);
+// console.log(2 % 3);
+
+let str1 = "Hello"
+let str2 = " Kartik"
+let str3 = str1 + str2
+// console.log(str3);
+
+//*********String Operation ******/
+
+// console.log(1 + 1);
+// console.log(1 + "2");
+// console.log("2" + 3 + 4);
+// console.log(2 + 3 + 4 + "5");
+
+
+//***********Assignment Operator********/
+
+let gameCounter = 100
+++gameCounter;
+console.log(gameCounter);
+
+
+// let x = 5
+// let y = x++
+// console.table({ x, y })
+
+
+let x = 6
+let y = ++x
+console.table({ x, y })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
