@@ -30,7 +30,7 @@ newDate.toLocaleString('default', {
     weekday: "long",
 
 })
-//This well help you to modify the value as per your requirement
+//This well help you to modify the value as per your requirements
 
 
 
